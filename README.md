@@ -25,7 +25,7 @@ When server source files change, the badge server should automatically restart i
 ## Usage
 
 In header menu there are four buttons which switch pages with tasks
-![alt text](https://github.com/MKovblyuk/FrontendTest/tree/main/screenshots/header_menu.png)
+![header_menu](https://github.com/MKovblyuk/FrontendTest/blob/main/screenshots/header_menu.PNG?raw=true)
 
 Pages show performing tasks with default test data:
 Task 1 has test data which saved in carsData.json
@@ -39,11 +39,10 @@ Task 4 has test data which saved in client/src/task4Data.json
 ![task1_demo](https://github.com/MKovblyuk/FrontendTest/blob/main/screenshots/task1_demo.PNG?raw=true)
 
 ### Task 2
-![task2_demo](https://github.com/MKovblyuk/FrontendTest/tree/main/screenshots/task2_demo.png "Task 2 Demo")
+![task2_demo](https://github.com/MKovblyuk/FrontendTest/blob/main/screenshots/task2_demo.PNG?raw=true)
 
 ### Task 3
-![Image alt](https://github.com/MKovblyuk/FrontendTest/tree/main/screenshots/task3_demo.PNG)
+![task3_demo](https://github.com/MKovblyuk/FrontendTest/blob/main/screenshots/task3_demo.PNG?raw=true)
 
 ### Task 4
-![task4_demo](https://github.com/MKovblyuk/FrontendTest/tree/main/screenshots/task4_demo.png "Task 4 Demo")
-![task4_demo](https://russianblogs.com/images/156/52e33bb91629ef388eafc601bf2efe94.png)
+![task4_demo](https://github.com/MKovblyuk/FrontendTest/blob/main/screenshots/task4_demo.PNG?raw=true)
