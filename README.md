@@ -36,13 +36,13 @@ Task 4 has test data which saved in client/src/task4Data.json
 ## Demo
 
 ### Task 1
-![alt text](screenshots/task1_demo.png "Task 1 Demo")
+![task1_demo](screenshots/task1_demo.png "Task 1 Demo")
 
 ### Task 2
-![alt text](screenshots/task2_demo.png "Task 2 Demo")
+![task2_demo](screenshots/task2_demo.png "Task 2 Demo")
 
 ### Task 3
-![alt text](screenshots/task3_demo.png "Task 3 Demo")
+![task3_demo](screenshots/task3_demo.png "Task 3 Demo")
 
 ### Task 4
-![alt text](screenshots/task4_demo.png "Task 4 Demo")
+![task4_demo](screenshots/task4_demo.png "Task 4 Demo")
