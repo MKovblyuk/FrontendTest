@@ -42,7 +42,7 @@ Task 4 has test data which saved in client/src/task4Data.json
 ![task2_demo](https://github.com/MKovblyuk/FrontendTest/tree/main/screenshots/task2_demo.png "Task 2 Demo")
 
 ### Task 3
-![task3_demo](https://github.com/MKovblyuk/FrontendTest/tree/main/screenshots/task3_demo.PNG "Task 3 Demo")
+![Image alt](https://github.com/MKovblyuk/FrontendTest/tree/main/screenshots/task3_demo.PNG "Task 3 Demo")
 
 ### Task 4
 ![task4_demo](https://github.com/MKovblyuk/FrontendTest/tree/main/screenshots/task4_demo.png "Task 4 Demo")
