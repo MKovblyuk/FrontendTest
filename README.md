@@ -46,3 +46,13 @@ In header menu there are four buttons which switch pages with tasks
 
 ### Task 4
 ![task4_demo](https://github.com/MKovblyuk/FrontendTest/blob/main/screenshots/task4_demo.PNG?raw=true)
+
+## Technologies in the project
+* HTML/CSS
+* JS
+* [React](https://ru.reactjs.org/docs/getting-started.html)
+* [nodemone](https://www.npmjs.com/package/nodemon)
+* [recharts](https://recharts.org/en-US/)
+* [MUI](https://mui.com/getting-started/installation/)
+* [concurrently](https://www.npmjs.com/package/concurrently)
+* [express](https://expressjs.com/ru/)
