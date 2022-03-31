@@ -46,3 +46,4 @@ Task 4 has test data which saved in client/src/task4Data.json
 
 ### Task 4
 ![task4_demo](https://github.com/MKovblyuk/FrontendTest/tree/main/screenshots/task4_demo.png "Task 4 Demo")
+![task4_demo](https://russianblogs.com/images/156/52e33bb91629ef388eafc601bf2efe94.png)
