@@ -1,0 +1,10 @@
+textarea{
+    min-width: 400px;
+    min-height: 400px;
+}
+
+.Task4{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

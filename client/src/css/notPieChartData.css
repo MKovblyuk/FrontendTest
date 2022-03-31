@@ -1,0 +1,7 @@
+.NotPieChartData{
+    background-color:rgb(210, 255, 212);
+    font-size: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

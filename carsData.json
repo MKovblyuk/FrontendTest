@@ -1,0 +1,60 @@
+{
+  "carsData": [
+    {
+      "id": 10,
+      "carBrand": "Audi",
+      "countryOfOrigin": "Germany",
+      "mostPopularModel": "Audi TT",
+      "averagePrice": 40000
+    },
+    {
+      "id": 11,
+      "carBrand": "BMW",
+      "countryOfOrigin": "Germany",
+      "mostPopularModel": "BMW X5",
+      "averagePrice": 60000
+    },
+    {
+      "id": 12,
+      "carBrand": "Tesla",
+      "countryOfOrigin": "USA",
+      "mostPopularModel": "Tesla Model S",
+      "averagePrice": 80000
+    },
+    {
+      "id": 13,
+      "carBrand": "Nissan",
+      "countryOfOrigin": "Japan",
+      "mostPopularModel": "Nissan GTR",
+      "averagePrice": 15000
+    },
+    {
+      "id": 14,
+      "carBrand": "Toyota",
+      "countryOfOrigin": "Japan",
+      "mostPopularModel": "Toyota Land Cruiser 200",
+      "averagePrice": 30000
+    },
+    {
+      "carBrand": "Jeep",
+      "countryOfOrigin": "USA",
+      "mostPopularModel": "RT-2",
+      "averagePrice": 54000,
+      "id": 1648644489411
+    },
+    {
+      "carBrand": "Toyota",
+      "countryOfOrigin": "Japan",
+      "mostPopularModel": "Supra",
+      "averagePrice": 20000,
+      "id": 1648645365450
+    },
+    {
+      "carBrand": "Nissan",
+      "countryOfOrigin": "Japan",
+      "mostPopularModel": "Torn 5Q",
+      "averagePrice": 100000,
+      "id": 1648647523613
+    }
+  ]
+}

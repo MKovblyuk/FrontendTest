@@ -1,0 +1,47 @@
+{
+    "test1": {
+        "first": {
+            "name": "John",
+            "surname": "Smith",
+            "age": 25,
+            "role": "manager"
+        },
+        "second": {
+            "name": "John",
+            "surname": "Smith",
+            "age": 28,
+            "role": "admin",
+            "level": "medium",
+            "group": "science"
+        }
+    },
+    "test2":{
+        "first": {
+            "name": "John",
+            "surname": "Smith",
+            "age": 25,
+            "role": "manager",
+            "user": {
+                "userName": "TestUser"
+            },
+            "admin": {
+                "adminName": "TestAdmin"
+            }
+        },
+        "second": {
+            "name": "John",
+            "surname": "Smith",
+            "age": 28,
+            "role": "admin",
+            "level": "medium",
+            "group": "science",
+            "admin": {
+                "adminName": "Test",
+                "adminAge": 34
+            },
+            "neueeee":{
+                "someField": "someValue"
+            }
+        }
+    }
+}

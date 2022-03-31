@@ -1,0 +1,11 @@
+.Task1 {
+    display: flex;
+    justify-content:space-around;
+    padding: 20px;
+}
+
+.Charts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
